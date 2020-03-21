@@ -1,0 +1,25 @@
+{
+    "name": "mozart409-theme",
+    "displayName": "Mozart409-Theme",
+    "description": "My personal theme",
+    "publisher": "Mozart409",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mozart409 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mozart409 Theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": "github.com/mozart409/mozart409-theme",
+    "license": "MIT",
+    "private": false
+}
