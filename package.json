@@ -19,7 +19,7 @@
             }
         ]
     },
-    "repository": "github.com/mozart409/mozart409-theme",
+    "repository": "https://github.com/Mozart409/mozart409-theme",
     "license": "MIT",
     "private": false
 }
